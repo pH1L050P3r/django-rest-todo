@@ -1,0 +1,7 @@
+-r common.txt
+-r test.txt
+drf-yasg==1.21.5
+django-debug-toolbar==3.8.1
+Markdown==3.4.1
+ipython==8.11.0
+bump2version==1.0.1
